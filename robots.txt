@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Cralence.github.io/sitemap.xml
+Sitemap: https://hanyangclarence.github.io/sitemap.xml
