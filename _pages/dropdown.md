@@ -1,7 +1,7 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: More
+nav: true
 nav_order: 8
 dropdown: true
 children:
@@ -13,4 +13,6 @@ children:
     - title: divider
     - title: blog
       permalink: /blog/
+    - title: cv
+      permalink: /assets/pef/example_pdf.pdf
 ---
