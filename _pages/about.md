@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Email: hyangclarence@gmail.com</p>
+    <p>CW Chu College</p>
     <p>The Chinese University of Hong Kong</p>
     <p>Hong Kong SAR, 999077</p>
 
