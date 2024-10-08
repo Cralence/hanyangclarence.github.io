@@ -4,3 +4,9 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"ICCV'23":
+  color: "#004591"
+
+"arXiv":
+  color: "#B31B1B"
