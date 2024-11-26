@@ -17,9 +17,15 @@
 "Zhang":
   - firstname: ["Yutong", "Y."]
 
+  - firstname: ["Hongxin", "H."]
+    url: https://icefoxzhx.github.io/
+
 "Chen":
   - firstname: ["Jiaben", "J."]
     url: https://jiabenchen.github.io/
+  
+  - firstname: ["Peihao", "P."]
+    url: https://peihaochen.github.io/
 
 "Qian":
   - firstname: ["Kaizhi", "K."]
@@ -30,3 +36,15 @@
 "Gan":
   - firstname: ["Chuang", "C."]
     url: https://people.csail.mit.edu/ganchuang/
+  
+"Yang":
+  - firstname: ["Yuncong", "Y."]
+    url: https://yyuncong.github.io/
+
+"Zhou":
+  - firstname: ["Jiachen", "J."]
+    url: https://www.linkedin.com/in/jiachen-zhou5/
+
+"Du":
+  - firstname: ["Yilun", "Y."]
+    url: https://yilundu.github.io/
